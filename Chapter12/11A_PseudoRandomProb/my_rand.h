@@ -1,0 +1,3 @@
+#pragma once
+
+// some prototypes
