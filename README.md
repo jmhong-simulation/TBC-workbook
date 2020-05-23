@@ -6,5 +6,7 @@
 
 사용 방법 2 (고급 사용자): git 설치 후 command창에서 git clone https://github.com/jmhong-simulation/TBC-workbook
 
+사용 방법 3 (고급 사용자): 자신의 계정으로 folk 후 clone
+
 * git 사용법은 '따라하며 배우는 C++'에서 다룹니다.
 * 본 코딩 워크북 공개가 맘에 드신다면 오른쪽 상단의 'star'를 꼭 눌러주세요.
